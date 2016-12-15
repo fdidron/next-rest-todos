@@ -1,4 +1,3 @@
-import Axios from 'axios';
 import fetch from 'isomorphic-fetch';
 
 import Todo from '../components/todo';

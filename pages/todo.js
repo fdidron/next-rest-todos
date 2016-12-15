@@ -1,4 +1,3 @@
-import Axios from 'axios';
 import Link from 'next/link';
 import Todo from '../components/todo';
 const TODO_ENDPOINT = 'https://jsonplaceholder.typicode.com/todos';
